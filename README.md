@@ -1,6 +1,7 @@
 # Agentic AI Security Platforms: Research Notes
 
 Independent research on AI platforms that run penetration tests on their own.
+
 It compares seven vendors, sets out what they share and where they differ, and covers what it takes to build a basic version yourself.
 
 | | |
@@ -86,11 +87,11 @@ The full breakdown, including a coverage-weighted score, is in [the comparison f
 
 ## Disclaimer
 
-Personal research from public sources only.
-Not affiliated with, sponsored by, or endorsed by any vendor named here.
-Not a buying recommendation.
+- Personal research from public sources only
+- Not affiliated with, sponsored by, or endorsed by any vendor named here
+- Not a buying recommendation
 
 ## Author
 
-**Akash**, Senior Security Analyst
+**Akash**, Senior Security Analyst\
 [LinkedIn](https://linkedin.com/in/akash0x00) · [GitHub](https://github.com/akash0x00)
